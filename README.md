@@ -1,3 +1,7 @@
+<!-- repository-organization:start -->
+> **本 Fork 的定位：学习与二次开发参考。** 保留上游作者、许可证和项目说明；个人改动及验证记录见 [Fork 维护说明](docs/fork-notes.md)。
+<!-- repository-organization:end -->
+
 ![TensorRtSharp](https://socialify.git.ci/guojin-yan/TensorRT-CSharp-API/image?description=1&descriptionEditable=TensorRT%20wrapper%20for%20.NET&forks=1&issues=1&logo=https%3A%2F%2Fs2.loli.net%2F2023%2F04%2F11%2FOtsq6zAaZnwxP1U.png&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
 [简体中文](README_cn.md) | English
